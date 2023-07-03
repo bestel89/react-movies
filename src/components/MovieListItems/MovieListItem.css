@@ -1,0 +1,17 @@
+.MovieListItem {
+    display: flex;
+}
+
+.csmall {
+    min-width: 200px;
+    max-width: 300px;
+}
+
+.card-body a {
+    text-decoration: none !important;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
